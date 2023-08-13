@@ -1,48 +1,19 @@
-# f
+# ReadME Generator
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)]
+Modifying the existing code so you can generate a unique readme doc after answered the prompts
 
-## Description
+# Description
 
-f
+Asked to modify and correct code to make a readme fitting the users proect while saving them time and not having to make one.
 
-## Table of Contents
+# Features
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
+Same as above, asked to incorporate inquirer to generate a unique readme after answeringa series of questions from the commandline about the readme.
 
-## License
+# Link to Deployed Application
 
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
-- [Questions](#questions)
+Can't be deployed.
 
-## Installation
+# License
 
-f
-
-## Usage
-
-f
-
-## Contributing
-
-f
-
-## Tests
-
-f
-
-## License
-
-
-## License
-
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
-
-## Questions
-
-For additional questions, you can contact me at:
-- GitHub: [f](https://github.com/Kpeterson23?tab=repositories)
-- Email: f](https://kylerpeterson23@gmail.com)
+MIT
